@@ -1,0 +1,3 @@
+{"name":"Admin Moderator","email":"admin@utsavdarshan.in","password":"$2a$10$/ko7zmkCazMJgLkYEAfsBeOy6bkDM7MsbTamuBCZR6s1D80VTa/Au","role":"admin","savedEvents":[],"createdAt":"2026-10-13T17:10:48.611Z","_id":"aFPE7GClb0eMOquU"}
+{"name":"Rahul Verma","email":"user@utsavdarshan.in","password":"$2a$10$/ko7zmkCazMJgLkYEAfsBeOy6bkDM7MsbTamuBCZR6s1D80VTa/Au","role":"user","savedEvents":[],"createdAt":"2026-10-13T17:10:48.612Z","_id":"sc3DFmRAQsUDDope"}
+{"name":"Ananya Sharma","email":"contributor@utsavdarshan.in","password":"$2a$10$/ko7zmkCazMJgLkYEAfsBeOy6bkDM7MsbTamuBCZR6s1D80VTa/Au","role":"contributor","savedEvents":[],"createdAt":"2026-10-13T17:10:48.612Z","_id":"wfyzOqKoxyQEORak"}
