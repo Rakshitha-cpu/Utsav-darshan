@@ -46,23 +46,23 @@ const Footer = () => {
             <ul className="space-y-2 text-sm">
               <li><Link to="/submit" className="hover:text-heritage-saffron transition-colors">Submit an Event</Link></li>
               <li><Link to="/calendar" className="hover:text-heritage-saffron transition-colors">Cultural Calendar 2026-2027</Link></li>
-              <li><span className="text-heritage-cream/70">Verification Protocol & Review</span></li>
+              <li><a href="https://www.incredibleindia.gov.in/en" target="_blank" rel="noopener noreferrer" className="hover:text-heritage-saffron transition-colors flex items-center gap-1">Incredible India Portal ↗</a></li>
+              <li><span className="text-heritage-cream/70">Tourist Helpline: Dial 1363</span></li>
               <li><span className="text-heritage-cream/70">Guidelines for Contributors</span></li>
-              <li><span className="text-heritage-cream/70">Report Outdated Listing</span></li>
             </ul>
           </div>
 
-          {/* Final Year Academic Note */}
+          {/* Academic & Reference Note */}
           <div className="space-y-3">
             <h4 className="font-serif-title text-base font-semibold text-heritage-gold mb-4 uppercase tracking-wider text-xs">
-              Project Information
+              Official Reference
             </h4>
             <p className="text-xs text-heritage-cream/70 leading-relaxed">
-              Designed & Developed as a comprehensive final-year engineering capstone web application.
+              Curated in alignment with Ministry of Tourism initiatives and Incredible India benchmarks.
             </p>
             <div className="bg-white/5 p-3 rounded-lg border border-heritage-gold/20 text-xs">
-              <p className="font-semibold text-heritage-gold">Utsav Darshan Engine</p>
-              <p className="text-heritage-cream/60 mt-1">Full-stack React, Node.js, Express, and MongoDB.</p>
+              <p className="font-semibold text-heritage-gold">Utsav Darshan Platform</p>
+              <p className="text-heritage-cream/60 mt-1">Full-stack React, Node.js, Express & SQLite/MongoDB.</p>
             </div>
           </div>
         </div>

@@ -284,6 +284,66 @@ const Home = () => {
         </div>
       </section>
 
+      {/* 5B. Incredible India Reference & Official Tourism Gateway */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-emerald-600/10 border-2 border-heritage-gold/40 rounded-3xl p-8 sm:p-10 shadow-lg relative overflow-hidden">
+          <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
+            <div className="space-y-4 max-w-2xl">
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-heritage-saffron/20 border border-heritage-saffron/40 text-heritage-maroon text-xs font-bold uppercase tracking-wider">
+                <Sparkles className="w-3.5 h-3.5 text-heritage-deepSaffron" />
+                National Cultural Reference • Ministry of Tourism, Govt of India
+              </div>
+              <h3 className="font-serif-title text-2xl sm:text-3xl font-extrabold text-heritage-maroon">
+                Inspired by Incredible India
+              </h3>
+              <p className="text-sm text-heritage-charcoal/80 leading-relaxed font-light">
+                Utsav Darshan collaborates with the grand vision of <strong>Incredible India</strong> to document and celebrate the subcontinent's unmatched diversity—from Himalayan monasteries and desert melas to temple rathotsavas and river rituals.
+              </p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
+                <div className="flex items-center gap-3 bg-white/80 p-3 rounded-xl border border-heritage-gold/20 shadow-sm">
+                  <div className="w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 flex items-center justify-center font-bold text-xs shrink-0">
+                    24x7
+                  </div>
+                  <div>
+                    <p className="text-xs font-bold text-heritage-charcoal">Tourist Helpline: 1363</p>
+                    <p className="text-[11px] text-heritage-charcoal/60">Toll-free in 12 Indian & Foreign Languages</p>
+                  </div>
+                </div>
+                <div className="flex items-center gap-3 bg-white/80 p-3 rounded-xl border border-heritage-gold/20 shadow-sm">
+                  <div className="w-8 h-8 rounded-full bg-heritage-saffron/20 text-heritage-maroon flex items-center justify-center font-bold text-xs shrink-0">
+                    Govt
+                  </div>
+                  <div>
+                    <p className="text-xs font-bold text-heritage-charcoal">Official State Boards</p>
+                    <p className="text-[11px] text-heritage-charcoal/60">Karnataka, Kerala, Rajasthan & UP Tourism</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex flex-col sm:flex-row lg:flex-col gap-3 shrink-0 w-full lg:w-auto">
+              <a
+                href="https://www.incredibleindia.gov.in/en"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-heritage-maroon to-heritage-deepSaffron text-white font-bold text-sm shadow-md hover:shadow-lg transition-all hover:scale-[1.02] text-center"
+              >
+                <span>Visit Incredible India Official Portal</span>
+                <ArrowRight className="w-4 h-4" />
+              </a>
+              <a
+                href="https://karnatakatourism.org"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-white/90 hover:bg-white text-heritage-charcoal font-semibold text-xs border border-heritage-gold/40 shadow-sm transition-all text-center"
+              >
+                <span>Explore Karnataka Tourism Portal</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 6. Community Submission Callout */}
       <section className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center bg-heritage-cream rounded-3xl p-10 border border-heritage-gold/30">
         <div className="w-12 h-12 rounded-full bg-heritage-saffron/20 mx-auto flex items-center justify-center text-heritage-deepSaffron mb-4">
