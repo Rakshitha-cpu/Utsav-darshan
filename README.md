@@ -2,8 +2,6 @@
 
 A full-stack, community-driven cultural festival and calendar discovery platform built for Indian temple festivals, jatras, melas, traditional music/dance, and regional celebrations.
 
-Designed as a **10/10 Final-Year Engineering Project** demonstrating complete end-to-end functionality: authentication, moderation workflows, trust & verification mechanisms, interactive maps, search/filtering, and calendar scheduling.
-
 ---
 
 ## 🏛️ Key Features
